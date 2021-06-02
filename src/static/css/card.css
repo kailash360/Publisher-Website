@@ -1,3 +1,7 @@
+.card-image-container {
+    text-align: center;
+}
+
 .card-image {
     width: 25em;
     height: 15em;

@@ -7,7 +7,7 @@ const Card_item = ({ name, description, image, link }) => {
             <div className='card mb-3'>
                 <a href={link}>
                     <div className="row g-0">
-                        <div className="col-md-4">
+                        <div className="col-md-4 card-image-container">
                             <img class="card-image" src={image} alt="Image" />
                         </div>
                         <div className="col-md-8">
