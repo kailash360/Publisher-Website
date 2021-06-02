@@ -3,5 +3,5 @@
 ### URL
 > https://free-mind-publishers.herokuapp.com/
 
-### Elements Used:
+### Elements Used
 - ReactJS
