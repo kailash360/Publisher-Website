@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Publisher-Website/static/css/main.ed12c485.chunk.css",
+    "main.js": "/Publisher-Website/static/js/main.352d5044.chunk.js",
+    "main.js.map": "/Publisher-Website/static/js/main.352d5044.chunk.js.map",
+    "runtime-main.js": "/Publisher-Website/static/js/runtime-main.592132a4.js",
+    "runtime-main.js.map": "/Publisher-Website/static/js/runtime-main.592132a4.js.map",
+    "static/js/2.46743a73.chunk.js": "/Publisher-Website/static/js/2.46743a73.chunk.js",
+    "static/js/2.46743a73.chunk.js.map": "/Publisher-Website/static/js/2.46743a73.chunk.js.map",
+    "static/js/3.11100f45.chunk.js": "/Publisher-Website/static/js/3.11100f45.chunk.js",
+    "static/js/3.11100f45.chunk.js.map": "/Publisher-Website/static/js/3.11100f45.chunk.js.map",
+    "index.html": "/Publisher-Website/index.html",
+    "static/css/main.ed12c485.chunk.css.map": "/Publisher-Website/static/css/main.ed12c485.chunk.css.map",
+    "static/js/2.46743a73.chunk.js.LICENSE.txt": "/Publisher-Website/static/js/2.46743a73.chunk.js.LICENSE.txt",
+    "static/media/books.f5e8991c.jpg": "/Publisher-Website/static/media/books.f5e8991c.jpg",
+    "static/media/carousel-img-1.ccb08f96.jpg": "/Publisher-Website/static/media/carousel-img-1.ccb08f96.jpg",
+    "static/media/carousel-img-2.4f30163b.jpg": "/Publisher-Website/static/media/carousel-img-2.4f30163b.jpg",
+    "static/media/carousel-img-3.889626d8.jpg": "/Publisher-Website/static/media/carousel-img-3.889626d8.jpg",
+    "static/media/magazines.d59419de.jpg": "/Publisher-Website/static/media/magazines.d59419de.jpg",
+    "static/media/newspaper.322ad0a7.jpg": "/Publisher-Website/static/media/newspaper.322ad0a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.592132a4.js",
+    "static/js/2.46743a73.chunk.js",
+    "static/css/main.ed12c485.chunk.css",
+    "static/js/main.352d5044.chunk.js"
+  ]
+}
