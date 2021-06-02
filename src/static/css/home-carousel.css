@@ -17,3 +17,17 @@
 #carouselExampleCaptions {
     margin-bottom: 20px;
 }
+
+@media screen and (max-width:450px) {
+    .carousel {
+        height: 40vh;
+    }
+    .carousel-inner {
+        height: 50vh;
+    }
+    .carousel-item img {
+        height: inherit;
+        width: inherit;
+        object-fit: cover;
+    }
+}

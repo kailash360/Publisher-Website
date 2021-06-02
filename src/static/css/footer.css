@@ -1,6 +1,6 @@
 footer {
     width: 100vw;
-    height: 3em;
+    height: 2.5em;
     background-color: rgb(0, 80, 69);
     align-items: center;
     padding-top: 0.6em;
@@ -16,10 +16,20 @@ footer ul {
 
 footer ul li {
     color: rgb(0, 241, 201);
-    font-size: 120%;
+    font-size: 100%;
 }
 
 footer ul li:hover {
     color: white;
     cursor: pointer;
+}
+
+@media screen and (max-width:450px) {
+    footer {
+        height: 6em;
+        width: 100%;
+    }
+    footer ul {
+        flex-direction: column;
+    }
 }
