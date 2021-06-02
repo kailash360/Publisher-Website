@@ -1,0 +1,19 @@
+.carousel-item img {
+    height: 90vh;
+    object-fit: cover;
+    opacity: 0.9;
+}
+
+.carousel-caption {
+    bottom: 40%;
+    font-size: 200%;
+    text-shadow: 0px 2px 20px black;
+}
+
+.carousel-caption h3 {
+    font-size: 150%;
+}
+
+#carouselExampleCaptions {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,25 @@
+footer {
+    width: 100vw;
+    height: 3em;
+    background-color: rgb(0, 80, 69);
+    align-items: center;
+    padding-top: 0.6em;
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer ul li {
+    color: rgb(0, 241, 201);
+    font-size: 120%;
+}
+
+footer ul li:hover {
+    color: white;
+    cursor: pointer;
+}
